@@ -1,4 +1,5 @@
-Formula 1 Data Engineering Project
+#Formula 1 Data Engineering Project
+
 Project Overview
 This project demonstrates a comprehensive data engineering pipeline built for analyzing Formula 1 racing data using various Azure services including Azure Databricks, Azure Data Lake Storage, and Azure Data Factory. The goal of the project is to ingest, process, and transform raw race data into meaningful insights and visualizations using Power BI, simulating a real-world data engineering workflow.
 
