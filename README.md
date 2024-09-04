@@ -1,0 +1,2 @@
+# Automated-Data-Engineering-Pipeline-for-Formula-1-Analytics-Using-Azure-Databricks-ADLS-and-ADF
+Built a comprehensive Formula 1 Data Engineering pipeline using Azure Databricks, Azure Data Lake, and Azure Data Factory. This project involved ingesting, processing, and transforming raw race data from multiple sources, implementing an incremental data load mechanism, and automating the workflow with ADF pipelines
